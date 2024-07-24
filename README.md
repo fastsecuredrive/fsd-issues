@@ -3,7 +3,7 @@
 
 Welcome to the **FastSecureDrive Issues** repository! This repository is dedicated to tracking issues, feature requests, and bugs for our private repository **FastSecureDrive**. 
 
-For detailed information on how to download, install, and configure **FastSecureDrive**, as well as guides on obtaining SSH data for various VPS and dedicated server providers, please refer to our [Wiki](https://github.com/fastsecuredrive/fsd-issues/wiki).
+For detailed information on how to download, install, and configure **FastSecureDrive**, as well as guides on obtaining SSH data for various VPS and dedicated server providers, please refer to our [Wiki](https://github.com/fastsecuredrive/fsd-issues/wiki/FastSecureDrive-Wiki).
 
 ## How to Create an Issue
 
